@@ -1,0 +1,22 @@
+#include <stdio.h>
+
+
+int calcularCuadrado(int numero) {
+    return   numero * numero;
+}
+
+
+int main     () {
+    int numero, resultado;
+
+    
+    printf  ("Introduce un número: ");
+    scanf   ("%d", &numero);
+
+    
+    resultado = calcularCuadrado(numero);
+
+    printf  ("El cuadrado de %d es: %d\n", numero, resultado);
+
+    return   0; 
+}
