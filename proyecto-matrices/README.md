@@ -1,6 +1,6 @@
 # Proyecto de Transformaciones Geométricas con Matrices
 
-Este proyecto implementa transformaciones geométricas en gráficos 2D utilizando matrices. Las transformaciones incluyen traslación, rotación y escalado. El programa crea matrices de transformación, las imprime en la consola y luego libera la memoria asignada para estas matrices.
+Este proyecto implementa transformaciones geometricas en graficos 2D utilizando matrices y las transformaciones incluyen traslacion, rotacion y escalado. El programa crea matrices de transformacion las imprime en la consola y luego libera la memoria asignada para estas matrices.
 
 # Estructura del Proyecto
 
